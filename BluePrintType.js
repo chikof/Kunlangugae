@@ -19,6 +19,7 @@ class BluePrintType extends ModLanguage{
       en: "Basic Supply Chest",
       chs: "简易物资箱",
       ja: "Basic Supply Chest",
+      es: "Cofre de suministros básico",
     },
     {
       BluePrint: "Treasure002",
@@ -37,12 +38,14 @@ class BluePrintType extends ModLanguage{
       en: "Standard Supply Chest",
       chs: "标准物资箱",
       ja: "Standard Supply Chest",
+      es: "Cofre de suministros estándar",
     },
     {
       BluePrint: "Treasure005",
       en: "Blue Tidal Heritage",
       chs: "标准物资箱_黑石增生",
       ja: "Blue Tidal Heritage",
+      es: "Herencia de marea azul",
     },
     {
       BluePrint: "Treasure006",
@@ -61,6 +64,7 @@ class BluePrintType extends ModLanguage{
       en: "Purple Tidal Heritage",
       chs: "豪华物资箱_黑石增生",
       ja: "Purple Tidal Heritage",
+      es: "Herencia de marea púrpura",
     },
     {
       BluePrint: "Treasure009",
